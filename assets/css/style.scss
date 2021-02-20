@@ -1,0 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.inner > header:nth-child(1) > h2:nth-child(2) {display: none}
+#downloads {display: none}

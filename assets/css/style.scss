@@ -3,5 +3,13 @@
 
 @import "{{ site.theme }}";
 
-.inner > header:nth-child(1) > h2:nth-child(2) {display: none}
+/* Hide all unecessary stuff */
 #downloads {display: none}
+.project-tagline {display: none}
+html body section.page-header a.btn {display: none}
+.site-footer-credits {display: none}
+.site-footer-owner {display: none}
+
+/* Make the theme less greenish*/
+.page-header {padding: 0; color: black; background-color: white; background-image: none}
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {color: black}

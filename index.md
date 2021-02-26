@@ -11,7 +11,6 @@
 
 ## Психологическая помощь
 * [Free Belarus centre](http://bit.ly/3ajAt0I)
-* [Белорусский дом в Украине](https://t.me/beldom_ua)
 * [Родны кут](http://rodnykut.kiev.ua/?page_id=18)
 * [Антыкрызісны цэнтр “Беларускі дом”](https://docs.google.com/forms/d/1uTmlB5yiKabwmQsyDyeIr83gy4RIeL0Vh2aPPybFiOg/edit)
 
@@ -21,7 +20,6 @@
 
 ## Юридическая помощь
 * [Free Belarus centre](http://bit.ly/3mqNjfU)
-* [Белорусский дом в Украине](https://t.me/beldom_ua)
 * [Релокейт. Беларусы в Украине](https://t.me/relocatebelarus)
 * [Антыкрызісны цэнтр “Беларускі дом”](https://docs.google.com/forms/d/1uTmlB5yiKabwmQsyDyeIr83gy4RIeL0Vh2aPPybFiOg/edit)
 

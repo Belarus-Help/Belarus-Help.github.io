@@ -1,7 +1,6 @@
 Важная информация о том, какие организации, инициативы, низовые активистки и активисты помогают беларускам и беларусам в Киеве.
 
 ## Жильё и питание
-* [Родны Кут](http://rodnykut.kiev.ua/?page_id=18)
 * [Free Belarus centre](http://bit.ly/2WsR35P)
 * [Антыкрызісны цэнтр “Беларускі дом”](https://docs.google.com/forms/d/1uTmlB5yiKabwmQsyDyeIr83gy4RIeL0Vh2aPPybFiOg/edit)
 

@@ -17,7 +17,7 @@
 * [врач-гастроэнтеролог](https://t.me/Microvaweoven)
 
 ## Юридическая помощь
-* [Free Belarus centre](http://bit.ly/3mqNjfU)
+* [Free Belarus centre](https://docs.google.com/forms/d/e/1FAIpQLSdg2dU8L1SnEtOXv5Q2iFXzt4R1XJ68_dTwVx3YATXzTKIFcQ/viewform)
 * [Релокейт. Беларусы в Украине](https://t.me/relocatebelarus)
 * [Антыкрызісны цэнтр “Беларускі дом”](https://docs.google.com/forms/d/1uTmlB5yiKabwmQsyDyeIr83gy4RIeL0Vh2aPPybFiOg/edit)
 

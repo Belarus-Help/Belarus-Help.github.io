@@ -9,7 +9,7 @@
 * [Беларусы в украине](https://t.me/bel_barahlo)
 
 ## Психологическая помощь
-* [Free Belarus centre](http://bit.ly/3ajAt0I)
+* [Free Belarus centre](https://docs.google.com/forms/d/e/1FAIpQLScZqDSLcnF7xGMxVpgaVvrvjkNlr2jJIU3FO5A7FmPM1-Yamg/viewform?fbclid=IwAR0mDOWV4zX7godnAn2R1-TK3yNXYz5tNg_8HPspb47hvBvNEvYpZu82xcw)
 * [Антыкрызісны цэнтр “Беларускі дом”](https://docs.google.com/forms/d/1uTmlB5yiKabwmQsyDyeIr83gy4RIeL0Vh2aPPybFiOg/edit)
 
 ## Медицинская помощь

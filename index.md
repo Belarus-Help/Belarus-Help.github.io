@@ -5,6 +5,7 @@
 ## [🧠 🧑‍⚕️ Психологическая помощь](https://docs.google.com/forms/d/1uTmlB5yiKabwmQsyDyeIr83gy4RIeL0Vh2aPPybFiOg/edit)
 ## [😷 ⚕️ Медицинская помощь](https://docs.google.com/forms/d/e/1FAIpQLSeHgp6r-WH70zUZ4ASZ6h7nXLF0xBDnQzGkllzn9sby0uxECw/viewform)
 ## [🧑‍⚖️ 🆘 Юридическая помощь](https://docs.google.com/forms/d/e/1FAIpQLSdg2dU8L1SnEtOXv5Q2iFXzt4R1XJ68_dTwVx3YATXzTKIFcQ/viewform)
+## [Финансовая помощь](https://docs.google.com/forms/d/e/1FAIpQLSffkaPYKBvg-wOIwhZC3YMEbAhsYAWZ5ZiEJOGopUoaoJGUaw/viewform)
 ## [Мне не помогли/плохое отношение.Ваши фитбэки о местных НГО](https://t.me/dapamogakievbot)
 
 

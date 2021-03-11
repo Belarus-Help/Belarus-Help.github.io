@@ -6,8 +6,7 @@
 ## [😷 ⚕️ Медицинская помощь](https://docs.google.com/forms/d/e/1FAIpQLSeHgp6r-WH70zUZ4ASZ6h7nXLF0xBDnQzGkllzn9sby0uxECw/viewform)
 ## [🧑‍⚖️ 🆘 Юридическая помощь](https://docs.google.com/forms/d/e/1FAIpQLSdg2dU8L1SnEtOXv5Q2iFXzt4R1XJ68_dTwVx3YATXzTKIFcQ/viewform)
 ## [🏦 💸 Финансовая помощь](https://docs.google.com/forms/d/e/1FAIpQLSffkaPYKBvg-wOIwhZC3YMEbAhsYAWZ5ZiEJOGopUoaoJGUaw/viewform)
-## [🗯 Мне не помогли или нахамили. Оставить отзыв о местных НГО](https://t.me/dapamogakievbot)
+## [🗯 Мне не помогли. Оставить отзыв о местных НГО](https://t.me/dapamogakievbot)
 
 
 Если вы являетесь теми, кто оказывает помощь или знаете таких людей - [пишите нам в чат бот](https://t.me/dapamogakievbot), а мы будем дополнять список.
-

@@ -3,7 +3,7 @@
 ## [🏘 🏡 Жильё](https://docs.google.com/forms/d/e/1FAIpQLScWvUdCX_rfCT5PBwm31BL25Y8sNVP4Zlh3BkGTlGjBpQmhUw/viewform)
 ## [🍜 🍟 Питание](https://docs.google.com/forms/d/e/1FAIpQLSeHgp6r-WH70zUZ4ASZ6h7nXLF0xBDnQzGkllzn9sby0uxECw/viewform)
 ## [👚 🥾 Одежда и обувь](https://docs.google.com/forms/d/1uTmlB5yiKabwmQsyDyeIr83gy4RIeL0Vh2aPPybFiOg/edit)
-## [🧠 🧑‍⚕️ Психологическая помощь](https://docs.google.com/forms/d/1uTmlB5yiKabwmQsyDyeIr83gy4RIeL0Vh2aPPybFiOg/edit)
+## [🧠 🧑‍⚕️ Психологическая помощь](mailto:aridreams@gmail.com?subject=Психологическая%20помощь%20Беларусам%20в%20Киеве)
 ## [😷 ⚕️ Медицинская помощь](https://docs.google.com/forms/d/e/1FAIpQLSeHgp6r-WH70zUZ4ASZ6h7nXLF0xBDnQzGkllzn9sby0uxECw/viewform)
 ## [🧑‍⚖️ 🆘 Юридическая помощь](https://docs.google.com/forms/d/e/1FAIpQLSdg2dU8L1SnEtOXv5Q2iFXzt4R1XJ68_dTwVx3YATXzTKIFcQ/viewform)
 ## [🏦 💸 Финансовая помощь](https://docs.google.com/forms/d/e/1FAIpQLSffkaPYKBvg-wOIwhZC3YMEbAhsYAWZ5ZiEJOGopUoaoJGUaw/viewform)

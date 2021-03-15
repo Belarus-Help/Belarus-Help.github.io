@@ -1,6 +1,7 @@
 Организации, инициативы, низовые активистки и активисты которые помогают беларускам и беларусам в Киеве.
 
-## [🏘 🍜 Жильё и питание](https://docs.google.com/forms/d/e/1FAIpQLSeHgp6r-WH70zUZ4ASZ6h7nXLF0xBDnQzGkllzn9sby0uxECw/viewform)
+## [🏘 🏡 Жильё](https://docs.google.com/forms/d/e/1FAIpQLScWvUdCX_rfCT5PBwm31BL25Y8sNVP4Zlh3BkGTlGjBpQmhUw/viewform)
+## [🍜 🍟 Питание](https://docs.google.com/forms/d/e/1FAIpQLSeHgp6r-WH70zUZ4ASZ6h7nXLF0xBDnQzGkllzn9sby0uxECw/viewform)
 ## [👚 🥾 Одежда и обувь](https://docs.google.com/forms/d/1uTmlB5yiKabwmQsyDyeIr83gy4RIeL0Vh2aPPybFiOg/edit)
 ## [🧠 🧑‍⚕️ Психологическая помощь](https://docs.google.com/forms/d/1uTmlB5yiKabwmQsyDyeIr83gy4RIeL0Vh2aPPybFiOg/edit)
 ## [😷 ⚕️ Медицинская помощь](https://docs.google.com/forms/d/e/1FAIpQLSeHgp6r-WH70zUZ4ASZ6h7nXLF0xBDnQzGkllzn9sby0uxECw/viewform)

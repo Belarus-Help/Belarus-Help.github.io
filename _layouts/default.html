@@ -2,14 +2,14 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
 
-    {% if site.google_analytics %}
+      {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', '{{ site.google_analytics }}');
-      </script>
+    </script>
     {% endif %}
     <meta charset="UTF-8">
 
@@ -36,6 +36,23 @@
       {{ content }}
 
       <footer class="site-footer">
+      {% if site.google_analytics %}
+      <script defer>
+        var getOutboundLink = function(url) {
+          gtag('event', 'click', {
+            'event_category': 'outbound',
+            'event_label': url,
+            'transport_type': 'beacon',
+            'event_callback': function(){document.location = url;}
+          });
+        };
+
+        for (let link of document.getElementsByTagName('a'))
+        {
+            link.onclick = function() {getOutboundLink(link.href); return false;};
+        };
+      </script>
+      {% endif %}
       </footer>
     </main>
   </body>
